@@ -1,1 +1,1 @@
-# ai-api-
+# AI-generator
